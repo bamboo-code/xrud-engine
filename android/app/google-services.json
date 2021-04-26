@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "861255847061",
+    "project_id": "xrud-engine",
+    "storage_bucket": "xrud-engine.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:861255847061:android:feef5530be8207848f9f9c",
+        "android_client_info": {
+          "package_name": "com.example.xrud_engine"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "861255847061-egsq453n9c7cnuoqffssultra6u11o89.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNdKbVZUmuQV5MwAEekU_XWxC0V3iK_Ls"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "861255847061-egsq453n9c7cnuoqffssultra6u11o89.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
